@@ -1,0 +1,19 @@
+{
+    "name": "NodeJSTerminal",
+    "version": "0.1.0",
+    "description": "Ask some questions.",
+    "homepage": "https://chesterwov-dpy.github.io/",
+    "type": "module",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ChesterWOV-DPY/NodeJSTerminal"
+    },
+    "main": "index.js",
+    "scripts": {
+      "start": "node ."
+    },
+    "bin": "./index.js",
+    "dependencies": {
+      "inquirer": "^8.2.0"
+    }
+  }
